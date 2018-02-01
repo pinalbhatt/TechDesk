@@ -12,6 +12,7 @@ hugo new --kind chapter Serverless/_index.md
 
 
 hugo new --kind chapter Hugo/Video-Tutorial/_index.md
+hugo new --kind page Hugo/Video-Tutorial/Introduction-to-Hugo.md
 
 # Site initialization commands
 
