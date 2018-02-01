@@ -1,3 +1,10 @@
+# content creation commands
+
+
+
+
+# Site initialization commands
+
 $ hugo new site TechDesk
 $ cd TechDesk
 $ git init
