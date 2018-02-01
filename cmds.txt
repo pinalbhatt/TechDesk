@@ -1,3 +1,4 @@
+rm -rf docs && hugo --cleanDestinationDir --gc
 # content creation commands
 
 # Root level
