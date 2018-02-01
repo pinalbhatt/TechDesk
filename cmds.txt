@@ -1,0 +1,9 @@
+$ hugo new site TechDesk
+$ cd TechDesk
+$ git init
+$ touch .gitignore
+$ git remote add origin https://github.com/pinalbhatt/TechDesk.git
+$ git push -u origin master
+$ git submodule add -b develop https://github.com/pinalbhatt/hugo-theme-learn.git themes/techdesk;
+
+

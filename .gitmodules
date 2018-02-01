@@ -1,0 +1,4 @@
+[submodule "themes/techdesk"]
+	path = themes/techdesk
+	url = https://github.com/pinalbhatt/hugo-theme-learn.git
+	branch = develop
