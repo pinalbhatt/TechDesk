@@ -11,6 +11,8 @@ hugo new --kind chapter AWS/_index.md
 hugo new --kind chapter Serverless/_index.md
 
 
+hugo new --kind chapter Hugo/Video-Tutorial/_index.md
+
 # Site initialization commands
 
 $ hugo new site TechDesk

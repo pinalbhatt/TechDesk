@@ -10,6 +10,17 @@ publishDir = "docs"
   description = "TechDesk - from the desk of Pinal Bhatt"
   author = "Pinal Bhatt"
   showVisitedLinks = true
+  themeVariant = "red"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]  
+
+[[menu.shortcuts]] 
+name = "<i class='fas fa-globe'></i> PBDesk.com"
+url = "https://PBDesk.com"
+weight = 10
+
+[[menu.shortcuts]] 
+name = "<i class='fas fa-user'></i> About Me"
+url = "https://PBDesk.com/About"
+weight = 20
