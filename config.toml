@@ -1,4 +1,4 @@
-baseURL = "pinalbhatt.github.io/TechDesk/"
+baseURL = "/"
 languageCode = "en-us"
 title = "TechDesk"
 theme = "techdesk"
