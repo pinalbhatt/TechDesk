@@ -1,6 +1,14 @@
 # content creation commands
 
-
+# Root level
+hugo new --kind chapter GoLang/_index.md
+hugo new --kind chapter Hugo/_index.md
+hugo new --kind chapter Angular/_index.md
+hugo new --kind chapter Javascript/_index.md
+hugo new --kind chapter Typescript/_index.md
+hugo new --kind chapter NodeJS/_index.md
+hugo new --kind chapter AWS/_index.md
+hugo new --kind chapter Serverless/_index.md
 
 
 # Site initialization commands
